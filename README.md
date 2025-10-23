@@ -68,7 +68,3 @@ This project consisted on implementing a Genetic Algorithm (GA) for a classifica
 * **Datasets:** `titanic.csv`, `balloons.csv`.
 
 ---
-
-
-  
-**Author:** Daniel Pulido Espinosa
