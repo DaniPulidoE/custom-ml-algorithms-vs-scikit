@@ -1,4 +1,4 @@
-# Fundamentals of Machine Learning - Course Projects
+# Fundamentals of Machine Learning - Course Projects - Autumn 2024
 
 This repository shows my practical project work from the "Fundamentals of Machine Learning" course at Universidad Autónoma de Madrid (UAM) during the 2024/2025 academic year.
 
