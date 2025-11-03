@@ -15,8 +15,6 @@ This project demonstrates practical experience with a various machine learning c
     * Logistic Regression (with Gradient Descent)
 * **Unsupervised Learning (Clustering):**
     * K-Means
-* **Big Data Frameworks:**
-    * **PySpark** (for distributed K-NN)
 * **Metaheuristic Optimization:**
     * Genetic Algorithms for rule-based classification
 * **Model Evaluation & Validation:**
@@ -41,17 +39,6 @@ This project focused on implementing fundamental classification and clustering a
 * **Comparative Analysis:** Conducted a deep comparative study of Naive-Bayes, K-NN, and Logistic Regression using **ROC Analysis** (ROC Space, ROC Curve, and AUC) to evaluate classifier performance beyond simple accuracy.
 * **Datasets:** `heart.csv`, `wdbc.csv`, `iris.csv`.
 
----
-
-### Project 2: K-NN optimization with PySpark
-
-This project focused on improving the execution speed of the custom K-NN algorithm by paralellizing its execution using PySpark, showcasing a direct application of distributed computing for machine learning.
-
-* **Objective:** Improve the performance of the custom K-NN implementation, by distributing the distance calculations across a multi-thread and a multi-node PySpark cluster.
-* **Key Objectives:**
-    * Re-implemented the K-NN algorithm using PySpark's RDDs (Resilient Distributed Datasets).
-    * Designed and deployed a PySpark cluster across multiple computers to run the algorithm in a true distributed environment.
-* **Skills Gained:** Distributed computing, algorithm parallelization, and big data fundamentals.
 
 ---
 
