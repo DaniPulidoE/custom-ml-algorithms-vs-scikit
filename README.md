@@ -42,7 +42,7 @@ This project focused on implementing fundamental classification and clustering a
 
 ---
 
-### Project 3: Classification with Genetic Algorithms
+### Project 2: Classification with Genetic Algorithms
 
 This project consisted on implementing a Genetic Algorithm (GA) for a classification problem, training it to discover a set of `IF-THEN` classification rules.
 
